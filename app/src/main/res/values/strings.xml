@@ -9,9 +9,9 @@
     <string name="map_not_ready">Map is not ready yet</string>
     <string name="slide1title">GPS Trajectory Data</string>
     <string name="slide2title">Mapping route</string>
-    <string name="slide3title">Profiles of Taxi</string>
+    <string name="slide3title">Profile of Taxi</string>
     <string name="slide1">The easiest way to show tracking map of taxi from Beijing, China</string>
-    <string name="slide2">Show all route of taxi daily using Google Map</string>
+    <string name="slide2">Show the routes of taxi daily using Google Maps</string>
     <string name="slide3">Show the detail of taxi profile for your information</string>
     <string name="next">NEXT</string>
     <string name="skip">SKIP</string>

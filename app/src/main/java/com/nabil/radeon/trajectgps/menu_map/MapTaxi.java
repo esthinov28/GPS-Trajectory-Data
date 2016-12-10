@@ -187,7 +187,7 @@ public class MapTaxi extends AppCompatActivity implements GoogleMap.OnMyLocation
         client.readTimeout(60, TimeUnit.SECONDS);
         client.connectTimeout(60, TimeUnit.SECONDS);
         Retrofit retrofit = new Retrofit.Builder()
-                .baseUrl("http://192.168.43.174")
+                .baseUrl("http://192.168.1.10")
                 .client(client.build())
                 .addConverterFactory(GsonConverterFactory.create())
                 .build();
